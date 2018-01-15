@@ -1,3 +1,3 @@
 <?PHP
-  echo "bla bla bla"
+  echo "bla bla bla";
 ?>
